@@ -59,6 +59,7 @@ button{
     border: 3px solid rgb(212, 208, 208);
     color: rgb(102, 100, 100);
     font-weight: 600;
+    cursor: pointer;
 }
 .flexButton{
     padding-right: 1em;
